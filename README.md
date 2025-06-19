@@ -1,0 +1,1 @@
+mvn gatling:test -Denv=PROD -Dbp=BP1 -DtestType=LOAD -Dgatling.core.runDescription="BP1 Load Test"
